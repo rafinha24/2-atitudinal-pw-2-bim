@@ -1,0 +1,51 @@
+.body{
+    border: 50px;
+}
+
+
+.h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(58, 7, 105);
+    margin-top: auto;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+
+.cadastre{
+    background-color: rgb(179, 25, 153);
+    border: none;
+    color: black;
+    padding: 10px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0,3 ease;
+}
+.cadastre:hover{
+    background-color: rgb(238, 35, 170);
+}
+
+.recadastro{
+    background-color: rgb(255, 40, 219);
+    border: none;
+    color: black;
+    padding: 10px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0,3 ease;
+}
+.recadastro:hover{
+    background-color: rgb(190, 5, 247);
+}
+
+.img{
+    border-radius: 40%;
+    margin-bottom: 40px;
+    
+
+}
